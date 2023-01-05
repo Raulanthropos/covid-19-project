@@ -1,0 +1,113 @@
+* {
+  text-align: center;
+}
+html {
+  height: 100vh;
+  background: linear-gradient(
+    225deg,
+    #A5BE00 0%,
+    #679436 30%,
+    #427AA1 70%,
+    #05668D 100%
+  );
+}
+.input{
+  margin: 7px;
+  padding: 20px;
+  border-radius: 10px;
+  border-color: rgb(235, 227, 227);
+  font-weight: bold;
+  font-family:'Courier New', Courier, monospace;
+  color: black;
+  border-width: 1px;
+  width: 300px
+}
+.err{
+  text-align: center;
+  padding: 10;
+  font-weight:  bold
+}
+.errd{
+  margin: 10;
+  width: 300;
+  background-color: "lightgrey";
+  margin-bottom: 10;
+  margin-top: 20;
+}
+.main{
+  text-align: center;
+}
+.btn-search{
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  width: 300px;
+  margin-top: 17px;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+.mainn{
+  padding-bottom: 20px;
+}
+
+.touch{
+  color: white;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  border: none;
+  font-size: 10px;
+  margin-top: 15px;
+}
+
+.btn1{
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  width: 300px;
+  margin-top: 17px;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+}
+
+.temp{
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+  margin: 15px;
+  border-radius: 5px;
+  border: none;
+  padding: 20px;
+}
+
+.main-div {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  margin-inline: 14px;
+  border-radius: 5px;
+}
+
+.flex-child {
+  margin-block: auto;
+}
+
+.image-child {
+  border-radius: 20%;
+  aspect-ratio: .65/.20;
+}
+
+.semi-opaque {
+  opacity: .5;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 650px) {
+  .image-child {
+    width: 30vw;
+  }
+}
