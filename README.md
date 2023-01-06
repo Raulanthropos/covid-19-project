@@ -1,6 +1,6 @@
 # Covid-19 Tracker App
 
-![screencapture-localhost-3000-2023-01-05-23_53_42](https://user-images.githubusercontent.com/77921037/211093940-b8e27144-ffd3-4e46-ad49-08e52582480c.png)
+![screencapture-localhost-3000-2023-01-05-21_35_32](https://user-images.githubusercontent.com/77921037/211094022-f9466bec-0dd3-47cc-aaeb-0e1e620c0549.png)
 
 ## This Covid-19 Tracker app allows users to view current Covid-19 statistics for various countries around the world.
 
